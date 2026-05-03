@@ -4,7 +4,7 @@ import { Link } from "react-router";
 const Header = () => {
   const headerStyle = {
     display: "flex",
-    justifyContent: "space-around",
+    justifyContent: "center",
     padding: "10px",
     // backgroundColor: '#f0f0f0',
     gap: "10px",

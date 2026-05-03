@@ -7,7 +7,8 @@ const Root = () => {
         <div>
           <Header/>
           <Outlet/>
-          <Link to="/phones">Go to Phones</Link>
+          {/* <Link to="/phones">Go to Phones</Link> */}
+          <h1>My Phone Store</h1>
         </div>
     );
 };
